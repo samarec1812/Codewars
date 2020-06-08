@@ -10,10 +10,11 @@ Input to the function is guaranteed to be a single string.
 123.45.67.89
 ```
 #### Invalid inputs:
-````
+```
 1.2.3
 1.2.3.4.5
 123.456.78.90
 123.045.067.089
 ```
+
 Note that leading zeros (e.g. 01.02.03.04) are considered invalid.
