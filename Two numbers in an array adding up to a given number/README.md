@@ -4,8 +4,8 @@
 
 ### Input
 
-A: The array is guaranteed to be sorted and has at least two elements. All elements are integers.  
-sum: An integer.  
+ - A: The array is guaranteed to be sorted and has at least two elements. All elements are integers.  
+ - sum: An integer.  
 ### Example
 ```
 A = [1,2,3,4], sum = 7 returns true, since 3+4=7.
