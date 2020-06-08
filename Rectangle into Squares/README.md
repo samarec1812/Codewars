@@ -42,4 +42,4 @@ You will return an array or a string (depending on the language; Shell bash, Pow
 
   - Return the string "nil" with Bash, PowerShell and Fortran.
 
-- -You can see more examples in "RUN SAMPLE TESTS".
+- - You can see more examples in "RUN SAMPLE TESTS".
