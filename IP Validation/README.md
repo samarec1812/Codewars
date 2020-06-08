@@ -16,4 +16,4 @@ Input to the function is guaranteed to be a single string.
 123.456.78.90
 123.045.067.089
 ```
-****Note that leading zeros (e.g. 01.02.03.04) are considered invalid.****
+Note that leading zeros (e.g. 01.02.03.04) are considered invalid.
